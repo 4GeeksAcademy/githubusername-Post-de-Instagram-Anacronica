@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+
+
+header h1 {
+    width: 600px;
+    margin: 0px;
+    margin: auto;
+}
+
+article {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    margin-top: 50px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-left > i {
+    font-size: 40px;
+    margin: 0;
+    padding: 10px 10px;
+}
+
+.header-right {
+    font-size: 30px;
+    margin: 0;
+    padding: 10px 10px;
+}
+
+.header-name {
+    display: inline-block;
+}
+
+.header-name h3, .header-name h5 {
+    margin: 0;
+}
+
+.header-bot {
+    justify-content: space-between; 
+}
+
+.fa-heart {
+    float: left;
+    padding: 10px 10px;
+}
+
+.fa-comment {
+    float: left;
+    padding: 10px 10px 0px 0px;
+}
+
+.fa-paper-plane{
+    padding: 10px 10px 0px 0px;
+}
+
+.fa-bookmark {
+    float: right;
+    padding: 10px 10px;
+}
+
+.header-bot-leaft {
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 10px;
+}
+
+.header-bot-right {
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 10px;
+}
+
+.texto {
+    padding: 10px 10px;
+    margin: 0;
+    color: black;
+}
+
+
+.raleway- uniquifier {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+  
+
+/*.texto p {
+    color: black;
+}*/
